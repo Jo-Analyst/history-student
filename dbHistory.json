@@ -1,0 +1,67 @@
+{
+  "aluno": [
+    {
+      "id": 1,
+      "nome": "Valdirene Aparecida Ferreira",
+      "turma": "3º Ensino Médio",
+      "nota": "94.5",
+      "classificacao": "Aprovado"
+    },
+    {
+      "id": 2,
+      "nome": "Joelmir Rogério Carvalho",
+      "turma": "3º Ensino Médio",
+      "nota": "95,8",
+      "classificacao": "Aprovado"
+    },
+    {
+      "id": 3,
+      "nome": "Maria Lídia Ferreira Carvalho",
+      "turma": "1º Ensino Médio",
+      "nota": "95",
+      "classificacao": "Aprovado"
+    },
+    {
+      "nome": "Jobert Silveira",
+      "turma": "2º Ensino Fundamental",
+      "nota": "70",
+      "classificacao": "Aprovado",
+      "id": 4
+    },
+    {
+      "nome": "Leonardo",
+      "turma": "8º Ensino Fundamental",
+      "nota": "45",
+      "classificacao": "Reprovado",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "nome": "Carlos",
+      "turma": "3º Ensino Fundamental",
+      "nota": "10",
+      "classificacao": "Reprovado"
+    },
+    {
+      "nome": "Francisco",
+      "turma": "3º Ensino Médio",
+      "nota": "65",
+      "classificacao": "Aprovado",
+      "id": 7
+    }
+  ],
+  "Turma": [
+    "1º Ensino Fundamental",
+    "2º Ensino Fundamental",
+    "3º Ensino Fundamental",
+    "4º Ensino Fundamental",
+    "5º Ensino Fundamental",
+    "6º Ensino Fundamental",
+    "7º Ensino Fundamental",
+    "8º Ensino Fundamental",
+    "9º Ensino Fundamental",
+    "1º Ensino Médio",
+    "2º Ensino Médio",
+    "3º Ensino Médio"
+  ]
+}
